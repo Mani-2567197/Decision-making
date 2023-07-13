@@ -1,0 +1,8 @@
+E:\C#\Exercises\Decision\Decision\bin\Debug\Decision.exe.config
+E:\C#\Exercises\Decision\Decision\bin\Debug\Decision.exe
+E:\C#\Exercises\Decision\Decision\bin\Debug\Decision.pdb
+E:\C#\Exercises\Decision\Decision\obj\Debug\Decision.csproj.AssemblyReference.cache
+E:\C#\Exercises\Decision\Decision\obj\Debug\Decision.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\Decision\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\Decision\Decision\obj\Debug\Decision.exe
+E:\C#\Exercises\Decision\Decision\obj\Debug\Decision.pdb
